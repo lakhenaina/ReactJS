@@ -1,5 +1,5 @@
 import React from 'react'
-import Rightcard from './Rightcard'
+
 
 const section2 = () => {
   return (
